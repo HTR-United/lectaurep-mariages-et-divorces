@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-11-30T08:36:13.259568+00:00</Created>
+        <LastChange>2021-11-30T08:36:13.259601+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="FRAN_0056_00434_L.jpg" imageWidth="7001" imageHeight="5483">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_d61ffed5" >
+        <Coords points="6639,265 6649,223 6667,223 6685,242 6754,228 6813,269 6799,342 6644,351"/>
+        <Baseline points="6641,267 6818,273"/>
+        <TextEquiv>
+          <Unicode>28</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b55f263a" custom="structure {type:printed;}">
+        <Coords points="429,415 443,333 575,338 626,315 717,333 1338,338 1471,315 1686,315 1736,333 1795,315 2092,328 2134,310 2764,310 2897,328 3006,310 3070,333 3294,315 3395,333 3651,328 3719,306 3907,328 3975,306 4300,306 4405,324 4496,306 4578,328 6164,310 6512,324 6534,397 6516,443 5630,429 5081,443 5040,424 4711,447 4578,424 3916,424 3847,443 3665,429 3559,447 3509,424 3294,429 3226,452 3153,429 2298,429 2225,447 2166,429 1960,429 1859,456 1727,434 1480,456 1320,438 1270,456 443,443"/>
+        <Baseline points="431,417 6536,400"/>
+        <TextEquiv>
+          <Unicode>REGISTRE des Contrats de Mariage entre Epoux dont l&#39;un est Commerçant, remis par extrait au Secrétariat de la Chambre des Notaires, séant à Paris,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d9b9074" custom="structure {type:printed;}">
+        <Coords points="1850,511 1859,452 1960,443 2627,438 2655,456 2728,429 2837,447 3011,424 3116,456 3180,429 3235,461 3294,429 3367,461 3413,429 3500,429 3527,452 3610,438 3637,456 3692,429 3884,461 3920,434 4291,434 4313,452 4546,434 4583,470 4665,466 4697,443 4770,466 4834,443 4885,466 5031,443 5131,466 5182,443 5223,461 5237,534 5141,571 5104,552 4697,571 4487,548 4291,566 4268,548 4044,548 3943,566 3884,543 3655,562 3441,543 3349,562 3112,539 3066,557 1855,552"/>
+        <Baseline points="1851,516 5239,535"/>
+        <TextEquiv>
+          <Unicode>en exécution de l&#39;article 67 du Code de Commerce. (Ledit Registre tenu pour ordre.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_35e3d7c1" custom="structure {type:printed;}">
+        <Coords points="767,694 776,671 849,662 996,667 1069,680 1078,703 1064,731 936,758 772,753"/>
+        <Baseline points="768,698 1083,704"/>
+        <TextEquiv>
+          <Unicode>DATE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_21d12ace" custom="structure {type:printed;}">
+        <Coords points="1201,703 1247,662 1293,680 1398,662 1498,703 1384,753 1247,753 1211,731"/>
+        <Baseline points="1205,704 1503,704"/>
+        <TextEquiv>
+          <Unicode>NOMS</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0d1b9094" custom="structure {type:printed;}">
+        <Coords points="1649,703 1667,667 1759,671 1832,648 1933,667 1946,694 1846,740 1718,740 1654,712"/>
+        <Baseline points="1652,704 1950,698"/>
+        <TextEquiv>
+          <Unicode>DATES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e976f3f2" custom="structure {type:printed;}">
+        <Coords points="5936,689 5945,671 6041,653 6105,671 6141,657 6164,676 6256,657 6406,680 6416,703 6402,772 6260,772 6205,740 5940,744"/>
+        <Baseline points="5940,693 6420,704"/>
+        <TextEquiv>
+          <Unicode>PARAPHE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_51bb3c67" custom="structure {type:printed;}">
+        <Coords points="493,744 502,721 557,735 589,717 621,740 662,731 671,753 598,795 534,772 498,790"/>
+        <Baseline points="495,747 675,758"/>
+        <TextEquiv>
+          <Unicode>N°</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5a426478" custom="structure {type:printed;}">
+        <Coords points="740,813 744,763 790,753 1046,753 1069,808 1055,836 1014,845 744,836"/>
+        <Baseline points="741,815 1073,813"/>
+        <TextEquiv>
+          <Unicode>DE LA REMISE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bed80b21" custom="structure {type:printed;}">
+        <Coords points="1242,795 1252,758 1430,749 1430,840 1252,840"/>
+        <Baseline points="1243,796 1442,798"/>
+        <TextEquiv>
+          <Unicode>DES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b6f2ce6f" custom="structure {type:printed;}">
+        <Coords points="1713,776 1736,744 1869,763 1882,781 1855,827 1718,836"/>
+        <Baseline points="1718,781 1883,782"/>
+        <TextEquiv>
+          <Unicode>DES</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cdf23a53" custom="structure {type:printed;}">
+        <Coords points="2280,776 2289,744 2879,735 2901,753 3139,740 3194,753 3203,790 3162,827 3052,817 2997,840 2915,822 2879,836 2851,813 2760,836 2691,813 2604,836 2581,808 2549,831 2284,831"/>
+        <Baseline points="2282,781 3205,792"/>
+        <TextEquiv>
+          <Unicode>NOMS ET PRÉNOMS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d8856a7a" custom="structure {type:printed;}">
+        <Coords points="3587,795 3591,749 3852,731 4048,735 4085,744 4099,790 4080,822 4062,813 4035,836 3934,817 3856,836 3834,813 3760,836 3701,813 3646,836 3596,813"/>
+        <Baseline points="3591,798 4100,792"/>
+        <TextEquiv>
+          <Unicode>QUALITÉS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1fb92fb0" custom="structure {type:printed;}">
+        <Coords points="4368,790 4377,749 4423,740 4711,758 4743,740 4770,758 4903,758 4912,795 4898,822 4839,845 4770,845 4734,822 4665,845 4624,827 4601,845 4373,831"/>
+        <Baseline points="4370,792 4917,798"/>
+        <TextEquiv>
+          <Unicode>DOMICILES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5c62f3c4" custom="structure {type:printed;}">
+        <Coords points="5154,785 5159,749 5232,740 5492,758 5780,744 5812,758 5826,795 5812,854 5739,827 5333,849 5305,831 5264,845 5159,822"/>
+        <Baseline points="5155,787 5829,798"/>
+        <TextEquiv>
+          <Unicode>RÉGIME ADOPTÉ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d4a98be" custom="structure {type:printed;}">
+        <Coords points="5949,790 5959,753 6274,776 6324,758 6397,776 6406,799 6393,817 6333,817 6301,849 6178,822 6109,845 5954,845"/>
+        <Baseline points="5951,792 6409,803"/>
+        <TextEquiv>
+          <Unicode>DU SECRÉTAIRE</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_63e9a3cb" custom="structure {type:printed;}">
+        <Coords points="484,868 498,772 575,799 680,781 690,868 671,941 603,945 493,900"/>
+        <Baseline points="486,870 691,870"/>
+        <TextEquiv>
+          <Unicode>D&#39;ORDRE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_19eb5b44" custom="structure {type:printed;}">
+        <Coords points="680,900 685,817 772,854 849,859 1009,849 1101,813 1105,941 918,922 895,945 845,927 808,945 776,927 690,945"/>
+        <Baseline points="685,903 1116,892"/>
+        <TextEquiv>
+          <Unicode>A LA CHAMBRE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f4e29d1e" custom="structure {type:printed;}">
+        <Coords points="1179,890 1220,849 1402,859 1421,840 1535,863 1544,890 1535,913 1462,932 1229,932 1188,913"/>
+        <Baseline points="1182,892 1547,892"/>
+        <TextEquiv>
+          <Unicode>NOTAIRES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_949e213a" custom="structure {type:printed;}">
+        <Coords points="1626,881 1636,854 1690,836 1759,849 1827,831 1965,854 1974,881 1933,927 1636,909"/>
+        <Baseline points="1630,886 1978,886"/>
+        <TextEquiv>
+          <Unicode>CONTRATS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e60c3f9f" custom="structure {type:printed;}">
+        <Coords points="5876,881 5881,836 6164,849 6187,831 6251,836 6269,859 6370,836 6443,859 6452,895 6438,918 6329,936 6301,918 6269,936 6224,918 5881,918"/>
+        <Baseline points="5879,886 6453,897"/>
+        <TextEquiv>
+          <Unicode>DE LA CHAMBRE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c02aee23" >
+        <Coords points="488,1078 507,1037 626,1050 667,1032 708,1082 694,1178 653,1178 580,1128 493,1151"/>
+        <Baseline points="492,1079 712,1087"/>
+        <TextEquiv>
+          <Unicode>6496</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_130e06f3" >
+        <Coords points="726,1082 731,1032 776,1014 1073,1037 1087,1078 1069,1133 1041,1105 904,1105 840,1133 731,1114"/>
+        <Baseline points="729,1086 827,1082 1092,1081"/>
+        <TextEquiv>
+          <Unicode>16 Juillet 1836</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_90691ad6" >
+        <Coords points="1119,1078 1128,1046 1165,1032 1334,1050 1517,1037 1594,1046 1604,1078 1594,1146 1558,1128 1489,1146 1462,1124 1389,1119 1329,1142 1270,1119 1233,1146 1128,1146"/>
+        <Baseline points="1123,1082 1606,1082"/>
+        <TextEquiv>
+          <Unicode>M^e germain (Acy) --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2bfe96f8" >
+        <Coords points="1617,1064 1622,1037 1695,1014 1786,1018 1805,1037 1933,1018 1997,1060 1983,1110 1855,1096 1745,1119 1645,1101 1626,1114"/>
+        <Baseline points="1619,1069 2000,1063"/>
+        <TextEquiv>
+          <Unicode>28 Juin 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b56f55dd" >
+        <Coords points="2015,1055 2019,1018 2079,996 2143,1023 2198,996 2271,996 2294,1018 2330,1005 2367,1037 2549,1037 2595,996 2641,996 2664,1018 2691,996 2865,1037 2901,1037 2929,1009 2961,1032 2993,1005 3025,1037 3093,1037 3102,1060 3089,1101 3070,1082 2892,1101 2856,1082 2837,1101 2623,1087 2554,1110 2408,1087 2367,1110 2216,1110 2193,1087 2019,1105"/>
+        <Baseline points="2017,1058 3105,1063"/>
+        <TextEquiv>
+          <Unicode>Aubry, ----- Réné Rose -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1378e5ff" >
+        <Coords points="3550,1073 3559,1032 3660,1032 3683,1009 3792,1032 3824,1009 3888,1032 3975,1014 3998,1073 3962,1101 3756,1092 3733,1114 3651,1114 3614,1096 3559,1114"/>
+        <Baseline points="3553,1074 4000,1074"/>
+        <TextEquiv>
+          <Unicode>m^d Epicier ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5849d142" >
+        <Coords points="4181,1073 4204,1014 4569,1028 4601,1005 4729,1005 4844,1028 4889,1005 4971,1005 4994,1028 5159,1023 5177,1078 5163,1101 5109,1096 5090,1114 4926,1114 4885,1096 4857,1114 4766,1114 4748,1096 4592,1114 4249,1114 4227,1096 4185,1114"/>
+        <Baseline points="4184,1074 5180,1081"/>
+        <TextEquiv>
+          <Unicode>Commune de neuilly sur Seinen° 43, près labarr. du roule</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9f58fa43" >
+        <Coords points="5200,1078 5209,1023 5250,1014 5273,1037 5479,1037 5524,1009 5561,1037 5593,1009 5648,1009 5698,1037 5721,1014 5785,1009 5808,1023 5817,1087 5794,1119 5712,1119 5675,1146 5584,1146 5547,1119 5492,1133 5442,1110 5246,1142 5205,1110"/>
+        <Baseline points="5205,1080 5818,1091"/>
+        <TextEquiv>
+          <Unicode>Communauté debiens.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7343cf3d" custom="structure {type:Signature;}">
+        <Coords points="5991,1073 6036,1018 6091,1041 6119,1014 6160,1014 6196,1041 6242,1014 6297,1041 6306,1078 6292,1114 6256,1133 6196,1114 6141,1133 5995,1119"/>
+        <Baseline points="5995,1074 6310,1080"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_615029ee" >
+        <Coords points="2010,1124 2051,1096 2115,1114 2138,1092 2202,1092 2234,1119 2399,1105 2490,1124 2568,1124 2586,1105 2636,1124 2673,1101 2732,1128 2892,1105 2993,1133 3093,1124 3112,1146 3093,1192 2984,1187 2938,1206 2796,1183 2719,1206 2664,1178 2581,1197 2527,1183 2472,1206 2252,1201 2230,1178 2184,1197 2015,1197"/>
+        <Baseline points="2011,1126 3113,1150"/>
+        <TextEquiv>
+          <Unicode>D&#39;huièque, -- Martine adélaide --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a3328047" >
+        <Coords points="3564,1165 3569,1133 3655,1137 3687,1119 3756,1137 3779,1114 3861,1137 4021,1114 4035,1160 4026,1206 3957,1187 3898,1206 3834,1206 3797,1183 3573,1192"/>
+        <Baseline points="3569,1168 4039,1162"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_41a601a5" >
+        <Coords points="4153,1165 4158,1110 4236,1124 4263,1101 4409,1128 4451,1101 4519,1101 4556,1128 4647,1101 4684,1119 4752,1105 4812,1128 4949,1128 4962,1160 4949,1219 4889,1197 4825,1197 4793,1219 4684,1197 4661,1215 4597,1197 4546,1219 4501,1201 4464,1219 4345,1219 4313,1201 4158,1197"/>
+        <Baseline points="4156,1168 4967,1162"/>
+        <TextEquiv>
+          <Unicode>à Montagny S^te félicité (oise) ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cb9f215b" >
+        <Coords points="498,1343 502,1306 530,1306 671,1320 685,1347 648,1421 502,1398"/>
+        <Baseline points="502,1347 688,1351"/>
+        <TextEquiv>
+          <Unicode>6497</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ba1f5e5c" >
+        <Coords points="726,1347 731,1297 818,1297 849,1325 927,1311 945,1329 1046,1311 1060,1338 1041,1407 735,1398"/>
+        <Baseline points="731,1352 1062,1339"/>
+        <TextEquiv>
+          <Unicode>dud^t -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_227a1fd3" >
+        <Coords points="1101,1338 1105,1311 1151,1293 1270,1311 1302,1288 1361,1306 1434,1288 1457,1311 1498,1311 1512,1343 1494,1384 1105,1375"/>
+        <Baseline points="1105,1339 1514,1345"/>
+        <TextEquiv>
+          <Unicode>M^e Meunier --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_084bd496" >
+        <Coords points="1631,1343 1640,1302 1727,1283 1805,1306 1955,1302 1983,1283 1997,1338 1983,1375 1933,1398 1891,1384 1846,1402 1786,1379 1759,1402 1690,1402 1636,1379"/>
+        <Baseline points="1634,1345 1999,1343"/>
+        <TextEquiv>
+          <Unicode>13 Juin 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4e0894b" >
+        <Coords points="2010,1325 2074,1274 2124,1274 2184,1302 2234,1279 2280,1302 2568,1302 2595,1274 2719,1274 2755,1302 2984,1274 3048,1302 3075,1274 3112,1274 3221,1302 3267,1283 3322,1302 3331,1325 3317,1370 3166,1357 3057,1384 3020,1361 2915,1379 2888,1361 2801,1393 2783,1379 2755,1407 2572,1407 2527,1366 2495,1384 2403,1370 2380,1393 2303,1366 2166,1375 2138,1357 2019,1375"/>
+        <Baseline points="2011,1328 3332,1328"/>
+        <TextEquiv>
+          <Unicode>Piéant, ----- françois, Veuf Morthereux -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1eb964fb" >
+        <Coords points="3550,1329 3555,1297 3591,1274 3660,1274 3701,1297 3728,1279 3751,1302 3838,1279 3930,1302 3943,1325 3934,1370 3559,1366"/>
+        <Baseline points="3553,1334 3945,1328"/>
+        <TextEquiv>
+          <Unicode>distillateur ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c9ff0fe6" >
+        <Coords points="4149,1343 4153,1297 4185,1279 4309,1297 4610,1279 4638,1297 4862,1297 4876,1347 4862,1389 4812,1370 4752,1389 4729,1366 4615,1389 4537,1389 4515,1366 4487,1389 4441,1389 4419,1366 4364,1389 4153,1370"/>
+        <Baseline points="4151,1345 4879,1350"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue delancry n° 6 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3def96c7" >
+        <Coords points="5305,1361 5310,1297 5351,1311 5383,1288 5488,1311 5657,1302 5671,1343 5662,1398 5639,1411 5497,1393 5474,1416 5355,1425 5314,1402"/>
+        <Baseline points="5309,1364 5674,1345"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4f16f18b" custom="structure {type:Signature;}">
+        <Coords points="5977,1338 5995,1251 6055,1265 6082,1242 6219,1233 6315,1265 6315,1402 5986,1402"/>
+        <Baseline points="5978,1339 6326,1339"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a2d126db" >
+        <Coords points="2001,1425 2006,1375 2111,1366 2193,1389 2294,1375 2316,1393 2572,1393 2609,1366 2673,1393 2741,1389 2764,1366 2796,1393 2824,1370 2906,1389 2965,1366 3052,1384 3089,1366 3240,1366 3276,1393 3326,1389 3349,1421 3331,1462 3262,1452 3240,1475 3162,1475 3144,1457 3098,1475 3038,1452 2924,1475 2856,1452 2796,1475 2737,1475 2714,1452 2618,1452 2572,1475 2504,1452 2394,1475 2321,1475 2289,1452 2234,1475 2102,1452 2051,1475 2006,1462"/>
+        <Baseline points="2006,1428 3354,1422"/>
+        <TextEquiv>
+          <Unicode>Chenu, ----- Reine, V^ve Bottollier Depoys -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3816da8c" >
+        <Coords points="3555,1434 3559,1411 3674,1398 3760,1411 3815,1389 3870,1411 3902,1384 3975,1384 3998,1430 3984,1457 3920,1466 3733,1452 3674,1471 3633,1452 3559,1471"/>
+        <Baseline points="3558,1439 4000,1433"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0ab046c3" >
+        <Coords points="4158,1425 4181,1375 4327,1398 4432,1375 4451,1393 4524,1384 4569,1402 4679,1379 4784,1402 4821,1379 4876,1402 4962,1402 4971,1434 4958,1480 4848,1462 4821,1480 4766,1462 4528,1475 4510,1457 4240,1475 4163,1457"/>
+        <Baseline points="4161,1427 4973,1439"/>
+        <TextEquiv>
+          <Unicode>à Paris, mêmes rue et n° -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_73a224f8" >
+        <Coords points="484,1622 493,1590 530,1585 676,1599 685,1622 676,1658 621,1681 552,1663 493,1676"/>
+        <Baseline points="486,1626 686,1623"/>
+        <TextEquiv>
+          <Unicode>6498</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3bf80b22" >
+        <Coords points="1626,1608 1636,1553 1727,1553 1745,1571 1937,1562 1974,1571 1983,1612 1969,1658 1818,1640 1773,1686 1690,1686 1645,1649 1631,1663"/>
+        <Baseline points="1630,1611 1985,1614"/>
+        <TextEquiv>
+          <Unicode>24 Juin 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f3d4680c" >
+        <Coords points="2001,1603 2006,1571 2051,1548 2161,1567 2344,1553 2385,1576 2412,1553 2440,1576 2577,1576 2696,1544 2746,1571 2792,1544 2869,1567 2910,1544 2938,1567 3029,1544 3057,1571 3194,1562 3253,1594 3240,1644 3208,1658 3098,1635 3057,1654 2947,1631 2755,1631 2737,1649 2709,1631 2645,1649 2618,1631 2559,1658 2536,1640 2394,1654 2367,1635 2307,1663 2275,1631 2184,1649 2138,1631 2083,1663 2006,1663"/>
+        <Baseline points="2006,1605 3254,1599"/>
+        <TextEquiv>
+          <Unicode>Butte, ----- Nicolas louis Cécile ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ad7b52ce" >
+        <Coords points="712,1644 717,1580 813,1580 845,1608 964,1590 1051,1603 1064,1635 973,1676 722,1654"/>
+        <Baseline points="717,1646 1069,1640"/>
+        <TextEquiv>
+          <Unicode>dud^t -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_32808056" >
+        <Coords points="1124,1631 1128,1571 1247,1585 1320,1562 1370,1585 1480,1558 1521,1580 1613,1580 1626,1622 1585,1663 1128,1654"/>
+        <Baseline points="1125,1632 1627,1623"/>
+        <TextEquiv>
+          <Unicode>M^e Marchandise (Péronne)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4335de65" >
+        <Coords points="3541,1626 3550,1553 3628,1553 3660,1576 3783,1576 3861,1553 3898,1580 4039,1580 4048,1626 4030,1654 3971,1663 3852,1640 3829,1658 3792,1640 3619,1640 3596,1663 3550,1663"/>
+        <Baseline points="3542,1627 4050,1627"/>
+        <TextEquiv>
+          <Unicode>fabricant debronzes -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10f360f1" >
+        <Coords points="4140,1612 4158,1548 4204,1571 4245,1544 4281,1562 4350,1548 4387,1576 4528,1548 4569,1580 4633,1580 4665,1553 4725,1585 4784,1585 4807,1562 4844,1580 4871,1558 4985,1576 5008,1562 5090,1590 5099,1635 5013,1672 4908,1649 4766,1667 4748,1649 4684,1663 4665,1644 4528,1663 4473,1640 4336,1658 4144,1635"/>
+        <Baseline points="4144,1615 5100,1638"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue deberry n° 12, au marais -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_849bde51" >
+        <Coords points="5328,1631 5328,1562 5374,1558 5502,1576 5598,1567 5625,1544 5643,1608 5634,1663 5456,1654 5383,1681 5337,1663"/>
+        <Baseline points="5332,1635 5647,1610"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_42d93365" custom="structure {type:Signature;}">
+        <Coords points="5986,1612 5995,1521 6160,1494 6324,1521 6324,1686 6301,1667 6260,1686 5995,1672"/>
+        <Baseline points="5989,1616 6337,1616"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2285eac4" >
+        <Coords points="2001,1695 2006,1640 2042,1672 2143,1640 2280,1640 2316,1672 2412,1644 2463,1667 2499,1640 2554,1663 2604,1635 2664,1663 2778,1667 2810,1644 2924,1658 2965,1631 2993,1654 3093,1635 3116,1658 3144,1644 3162,1663 3335,1663 3349,1681 3340,1704 3171,1704 3144,1731 3066,1740 2984,1740 2965,1722 2897,1736 2856,1718 2787,1745 2504,1722 2481,1740 2408,1727 2385,1749 2344,1731 2262,1749 2207,1727 2010,1749"/>
+        <Baseline points="2006,1698 3354,1682"/>
+        <TextEquiv>
+          <Unicode>Letellier de Curlu, Marie rosalie Zénais -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_68a27d20" >
+        <Coords points="3564,1713 3573,1686 3724,1672 3989,1672 4048,1686 4058,1713 4048,1736 3925,1754 3683,1736 3605,1754 3573,1736"/>
+        <Baseline points="3569,1718 4059,1718"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_729ff6ae" >
+        <Coords points="4140,1708 4144,1654 4588,1676 4624,1658 4697,1676 4912,1658 4930,1676 5017,1676 5031,1718 4962,1759 4894,1736 4798,1759 4734,1736 4597,1749 4583,1731 4478,1731 4405,1759 4373,1736 4318,1759 4222,1759 4199,1736 4144,1759"/>
+        <Baseline points="4144,1709 5033,1721"/>
+        <TextEquiv>
+          <Unicode>à fargnier, commune de Curlu -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_88389099" >
+        <Coords points="488,1905 498,1873 543,1859 671,1877 680,1905 671,1955 635,1978 580,1946 498,1978"/>
+        <Baseline points="493,1909 681,1908"/>
+        <TextEquiv>
+          <Unicode>6499</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_13231f3b" >
+        <Coords points="712,1891 744,1850 859,1836 936,1868 1028,1864 1041,1882 991,1960 717,1928"/>
+        <Baseline points="713,1892 1044,1886"/>
+        <TextEquiv>
+          <Unicode>dud^t ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d843a79" >
+        <Coords points="1101,1896 1124,1841 1206,1850 1233,1823 1297,1850 1338,1827 1434,1850 1489,1823 1549,1850 1558,1896 1549,1941 1508,1923 1453,1941 1425,1923 1352,1941 1284,1941 1265,1923 1192,1941 1174,1923 1110,1941"/>
+        <Baseline points="1103,1897 1562,1900"/>
+        <TextEquiv>
+          <Unicode>M^e Chapellier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_937902b6" >
+        <Coords points="1608,1887 1617,1841 1686,1823 1713,1841 1777,1823 1846,1823 1864,1841 1978,1832 1987,1887 1960,1937 1786,1919 1722,1951 1645,1951 1617,1928"/>
+        <Baseline points="1613,1891 1991,1891"/>
+        <TextEquiv>
+          <Unicode>2 Juillet 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6bbe4c0e" >
+        <Coords points="2001,1877 2010,1850 2070,1823 2124,1850 2166,1832 2595,1850 2623,1823 2760,1823 2815,1850 2892,1823 3025,1823 3052,1850 3185,1836 3208,1877 3198,1919 3043,1905 2997,1923 2947,1905 2924,1928 2819,1928 2760,1905 2673,1923 2641,1905 2536,1905 2481,1928 2449,1905 2426,1928 2362,1928 2307,1905 2184,1928 2106,1905 2010,1928"/>
+        <Baseline points="2006,1881 3210,1881"/>
+        <TextEquiv>
+          <Unicode>Racine, --- Alexandre Gabriel ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0f869776" >
+        <Coords points="3527,1873 3537,1845 3573,1836 3760,1845 3788,1827 3852,1845 3994,1827 4048,1845 4058,1873 4026,1919 3856,1923 3820,1905 3792,1923 3724,1905 3706,1923 3655,1909 3633,1928 3537,1928"/>
+        <Baseline points="3531,1875 4061,1875"/>
+        <TextEquiv>
+          <Unicode>tapissier m^d de meubles</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aaa036b5" >
+        <Coords points="4140,1877 4149,1836 4213,1841 4263,1818 4281,1836 4327,1823 4391,1845 4501,1845 4528,1823 4592,1841 4633,1823 4697,1850 4825,1827 4880,1850 4889,1891 4876,1937 4807,1937 4784,1914 4537,1932 4515,1909 4318,1928 4281,1905 4144,1905"/>
+        <Baseline points="4144,1881 4890,1892"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue de cléry n° 42 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_377d58c7" custom="structure {type:Signature;}">
+        <Coords points="5954,1855 5963,1804 6077,1804 6119,1763 6205,1763 6251,1804 6310,1781 6333,1855 6324,1946 5963,1946"/>
+        <Baseline points="5956,1859 6337,1859"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6914fc0e" >
+        <Coords points="5351,1909 5346,1795 5465,1804 5625,1781 5643,1937 5534,1932 5506,1951 5479,1928 5392,1964 5364,1955"/>
+        <Baseline points="5354,1911 5652,1881"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_af88f0b6" >
+        <Coords points="2001,1964 2006,1941 2065,1909 2230,1932 2294,1909 2412,1932 2467,1919 2495,1941 2572,1941 2604,1909 2700,1909 2741,1941 2778,1923 2874,1941 2897,1919 2920,1941 3016,1923 3034,1941 3221,1941 3235,1960 3217,2001 3098,2024 3020,1996 2842,2001 2792,2024 2709,1996 2664,2024 2604,2024 2559,1996 2472,1996 2426,2024 2006,2010"/>
+        <Baseline points="2006,1969 3238,1964"/>
+        <TextEquiv>
+          <Unicode>Buchey, --- Elvire -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_285173b0" >
+        <Coords points="3541,1983 3564,1941 3587,1960 4012,1946 4021,1983 4012,2015 3550,2001"/>
+        <Baseline points="3542,1986 4022,1986"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8ee31ba1" >
+        <Coords points="4135,1978 4144,1914 4208,1941 4236,1914 4332,1941 4359,1923 4391,1937 4428,1914 4519,1914 4560,1951 4642,1951 4684,1928 4748,1951 4793,1923 4834,1928 4871,1951 4967,1951 4976,1987 4958,2019 4633,2010 4560,2033 4473,2010 4419,2028 4387,2010 4304,2028 4245,2005 4140,2028"/>
+        <Baseline points="4138,1980 4978,1991"/>
+        <TextEquiv>
+          <Unicode>à Paris, rueS^te opportune n° 14 ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7f6bd753" custom="structure {type:Signature;}">
+        <Coords points="5977,2124 5986,2051 6023,2074 6100,2074 6132,2051 6283,2074 6292,2124 6283,2216 5986,2211"/>
+        <Baseline points="5978,2129 6293,2129"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_42234442" >
+        <Coords points="488,2165 498,2129 548,2120 671,2142 680,2174 667,2206 493,2216"/>
+        <Baseline points="493,2170 685,2178"/>
+        <TextEquiv>
+          <Unicode>6500</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_10543e11" >
+        <Coords points="712,2174 731,2120 886,2115 913,2142 1037,2147 1046,2179 1023,2202 964,2206 717,2202"/>
+        <Baseline points="716,2178 1051,2184"/>
+        <TextEquiv>
+          <Unicode>18 dud^t ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4027f20d" >
+        <Coords points="1101,2161 1110,2106 1160,2124 1192,2097 1261,2092 1316,2124 1370,2097 1407,2124 1498,2124 1540,2092 1604,2092 1613,2161 1604,2202 1581,2211 1352,2211 1334,2193 1156,2193 1110,2211"/>
+        <Baseline points="1103,2165 1617,2165"/>
+        <TextEquiv>
+          <Unicode>M^e Labour (aux andelys)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7366d449" >
+        <Coords points="1622,2156 1631,2124 1690,2101 1727,2120 1745,2101 1805,2120 1937,2101 2006,2124 2015,2156 1992,2206 1955,2193 1864,2216 1841,2193 1768,2193 1741,2220 1631,2220"/>
+        <Baseline points="1624,2157 2017,2157"/>
+        <TextEquiv>
+          <Unicode>4 Juillet 1836 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11ea7e2b" >
+        <Coords points="2019,2156 2038,2110 2092,2092 2152,2110 2170,2092 2266,2110 2307,2097 2353,2124 2545,2120 2595,2092 2645,2092 2677,2120 2709,2092 2778,2092 2815,2124 2924,2124 2933,2156 2920,2197 2833,2179 2618,2179 2595,2197 2531,2179 2348,2197 2243,2197 2225,2179 2198,2197 2138,2179 2029,2188"/>
+        <Baseline points="2022,2157 2934,2157"/>
+        <TextEquiv>
+          <Unicode>Colas, ----- Edme -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_761b98a4" >
+        <Coords points="3518,2147 3582,2101 3655,2120 3774,2101 3806,2129 3962,2124 3971,2147 3962,2188 3527,2184"/>
+        <Baseline points="3520,2152 3973,2152"/>
+        <TextEquiv>
+          <Unicode>m^d coutelier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d745dd41" >
+        <Coords points="4131,2156 4135,2120 4199,2120 4227,2097 4313,2120 4428,2120 4451,2101 4473,2120 4501,2097 4556,2097 4583,2120 4610,2101 4629,2120 4665,2101 4738,2120 4775,2097 4802,2120 4844,2097 4898,2115 4912,2161 4898,2193 4866,2179 4784,2197 4437,2197 4419,2179 4377,2197 4259,2179 4236,2197 4135,2179"/>
+        <Baseline points="4133,2157 4917,2163"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue deSèvres n° 30 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1aa39ad1" >
+        <Coords points="5159,2184 5163,2060 5767,2060 5767,2220 5680,2197 5630,2234 5570,2234 5515,2197 5470,2197 5387,2202 5351,2238 5168,2234"/>
+        <Baseline points="5161,2187 5785,2175"/>
+        <TextEquiv>
+          <Unicode>le Régime Dotal.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86e27fd9" >
+        <Coords points="2029,2225 2033,2193 2065,2184 2175,2202 2225,2184 2257,2211 2321,2184 2472,2211 2723,2184 2760,2211 2947,2202 3029,2211 3043,2229 2714,2234 2682,2266 2604,2261 2572,2289 2549,2270 2517,2289 2490,2270 2449,2289 2161,2289 2138,2270 2033,2289"/>
+        <Baseline points="2033,2229 3044,2234"/>
+        <TextEquiv>
+          <Unicode>Prevost, ---- Elise</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_aa4d0606" >
+        <Coords points="3546,2243 3555,2202 3578,2193 3655,2216 3774,2197 3815,2220 4048,2197 4058,2252 4044,2280 3550,2280"/>
+        <Baseline points="3550,2248 4062,2257"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9d1874fb" >
+        <Coords points="4135,2243 4144,2197 4236,2197 4254,2179 4373,2202 4400,2184 4688,2206 4807,2188 4917,2193 4935,2211 5013,2197 5049,2211 5058,2261 5045,2284 4958,2280 4940,2298 4743,2275 4601,2293 4583,2270 4537,2289 4359,2270 4300,2284 4277,2266 4249,2284 4158,2284 4140,2266"/>
+        <Baseline points="4138,2245 5061,2262"/>
+        <TextEquiv>
+          <Unicode>à lahauteborne, comm^ne d&#39;hennezis --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fd209a37" >
+        <Coords points="493,2426 502,2389 662,2394 680,2426 671,2476 612,2471 562,2508 502,2508"/>
+        <Baseline points="497,2428 685,2428"/>
+        <TextEquiv>
+          <Unicode>6501</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a4e04f46" >
+        <Coords points="726,2430 744,2375 763,2394 872,2375 936,2417 1051,2430 1041,2490 735,2471"/>
+        <Baseline points="729,2435 1055,2435"/>
+        <TextEquiv>
+          <Unicode>20 dud^t ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_05e095d1" >
+        <Coords points="1105,2439 1110,2366 1215,2389 1348,2362 1389,2385 1421,2362 1489,2385 1585,2380 1599,2430 1590,2462 1512,2471 1375,2453 1325,2476 1115,2467"/>
+        <Baseline points="1108,2441 1604,2435"/>
+        <TextEquiv>
+          <Unicode>M^e Cahouet -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d9b17bf" >
+        <Coords points="1622,2426 1626,2375 1699,2362 1969,2366 1997,2375 2010,2421 2001,2449 1859,2476 1823,2453 1745,2481 1631,2462"/>
+        <Baseline points="1624,2428 2011,2422"/>
+        <TextEquiv>
+          <Unicode>12 Juillet 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_219403fe" >
+        <Coords points="2006,2412 2010,2375 2092,2353 2138,2375 2399,2375 2454,2353 2495,2375 2687,2375 2709,2353 2773,2375 2901,2353 2993,2375 3025,2353 3240,2375 3262,2353 3395,2353 3413,2371 3463,2357 3477,2417 3463,2467 3244,2467 3226,2449 3194,2467 3171,2444 2947,2444 2924,2467 2769,2444 2650,2467 2623,2444 2559,2467 2508,2449 2435,2467 2408,2444 2321,2444 2271,2467 2211,2444 2161,2467 2019,2449"/>
+        <Baseline points="2008,2416 3480,2418"/>
+        <TextEquiv>
+          <Unicode>Broyard, -- Pierre dominique aldoritte, veuf Guigny -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_eb6077ad" >
+        <Coords points="3532,2421 3537,2371 3559,2357 3610,2375 3728,2357 3907,2375 3994,2357 4080,2375 4094,2426 4071,2458 3930,2439 3879,2467 3811,2444 3788,2467 3719,2467 3697,2444 3601,2444 3578,2467 3537,2467"/>
+        <Baseline points="3536,2424 4099,2430"/>
+        <TextEquiv>
+          <Unicode>m^d deVin -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ba80363f" >
+        <Coords points="4126,2426 4135,2389 4204,2389 4231,2362 4327,2389 4391,2371 4409,2385 4428,2366 4556,2389 4606,2362 4770,2362 4839,2389 5008,2389 5040,2366 5077,2380 5086,2430 5017,2471 4940,2471 4908,2449 4830,2471 4770,2449 4693,2449 4665,2471 4569,2449 4528,2467 4400,2449 4336,2471 4313,2449 4131,2444"/>
+        <Baseline points="4127,2428 5089,2433"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue et carré S^t martin n° 315 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6211f66e" >
+        <Coords points="5145,2430 5154,2371 5342,2389 5378,2371 5483,2371 5502,2389 5799,2375 5817,2380 5826,2430 5817,2494 5698,2476 5671,2494 5616,2476 5456,2476 5438,2494 5337,2494 5319,2476 5301,2494 5154,2485"/>
+        <Baseline points="5147,2435 5827,2435"/>
+        <TextEquiv>
+          <Unicode>Communauté de biens./.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6f6073c9" custom="structure {type:Signature;}">
+        <Coords points="6009,2412 6018,2343 6096,2343 6155,2311 6196,2311 6228,2343 6260,2343 6292,2311 6324,2339 6352,2321 6352,2508 6292,2508 6237,2476 6164,2508 6109,2471 6077,2490 6018,2471"/>
+        <Baseline points="6011,2417 6365,2417"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e8fc93a9" >
+        <Coords points="2001,2508 2006,2449 2120,2467 2184,2449 2239,2467 2390,2449 2431,2471 2554,2471 2591,2449 3016,2467 3070,2444 3098,2467 3166,2444 3189,2467 3267,2467 3281,2499 3262,2545 3235,2531 3176,2554 2979,2554 2942,2531 2901,2554 2842,2554 2810,2531 2682,2535 2636,2558 2600,2540 2559,2558 2522,2535 2399,2558 2316,2535 2257,2558 2220,2535 2115,2554 2006,2535"/>
+        <Baseline points="2006,2511 3282,2500"/>
+        <TextEquiv>
+          <Unicode>Druelle, --- hortense augustine Josephe -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8b1a8752" >
+        <Coords points="3555,2508 3559,2481 3669,2481 3687,2462 3829,2481 4044,2458 4067,2517 4044,2549 3898,2549 3875,2531 3765,2545 3747,2526 3559,2545"/>
+        <Baseline points="3559,2513 4068,2519"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8bb446df" >
+        <Coords points="4126,2513 4131,2449 4195,2476 4227,2449 4350,2476 4400,2449 4473,2467 4565,2467 4588,2449 4633,2481 4702,2449 4738,2481 4853,2481 4866,2517 4839,2549 4565,2535 4546,2554 4240,2540 4131,2554"/>
+        <Baseline points="4127,2516 4868,2522"/>
+        <TextEquiv>
+          <Unicode>à Paris, même rue et n° ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e84ac790" >
+        <Coords points="1617,2686 1626,2654 1750,2627 1891,2627 1946,2654 1960,2640 2001,2654 2010,2686 1997,2746 1955,2723 1800,2714 1745,2750 1667,2750 1626,2714"/>
+        <Baseline points="1619,2687 2011,2687"/>
+        <TextEquiv>
+          <Unicode>6 Juillet 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c97269c9" >
+        <Coords points="3527,2663 3537,2567 3651,2567 3751,2636 3788,2618 3834,2650 3939,2650 3952,2672 3939,2709 3911,2714 3532,2714"/>
+        <Baseline points="3531,2665 3956,2676"/>
+        <TextEquiv>
+          <Unicode>bourrelier ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_500b9d69" >
+        <Coords points="488,2700 502,2659 516,2672 580,2654 676,2677 685,2704 658,2732 493,2755"/>
+        <Baseline points="489,2703 686,2709"/>
+        <TextEquiv>
+          <Unicode>6502</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8c37ac7d" >
+        <Coords points="731,2714 740,2640 808,2636 854,2659 891,2640 927,2677 1028,2672 1037,2714 1028,2750 740,2755"/>
+        <Baseline points="731,2714 1037,2714"/>
+        <TextEquiv>
+          <Unicode>dud^t ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_49e25a3e" >
+        <Coords points="1096,2686 1105,2627 1174,2645 1448,2627 1553,2645 1562,2691 1535,2732 1101,2718"/>
+        <Baseline points="1100,2687 1564,2693"/>
+        <TextEquiv>
+          <Unicode>M^e Lairtullier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b5cd5e7a" >
+        <Coords points="2029,2704 2033,2636 2083,2663 2138,2636 2239,2631 2266,2650 2380,2627 2431,2654 2549,2654 2595,2627 2723,2631 2737,2613 2801,2645 2906,2645 2920,2682 2883,2714 2764,2691 2728,2718 2591,2700 2549,2723 2390,2709 2294,2727 2271,2704 2230,2704 2033,2732"/>
+        <Baseline points="2033,2707 2923,2684"/>
+        <TextEquiv>
+          <Unicode>Gaugain, - Michel ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1c7f32e9" >
+        <Coords points="4131,2700 4140,2599 4277,2599 4318,2640 4501,2640 4542,2604 4633,2640 4652,2622 4725,2622 4743,2645 4816,2650 5031,2627 5040,2714 5022,2732 4962,2714 4940,2736 4885,2736 4839,2714 4761,2727 4670,2709 4546,2732 4528,2714 4496,2727 4355,2709 4313,2727 4135,2704"/>
+        <Baseline points="4133,2701 5044,2718"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue dufbgS^t denis n° 67 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7d39759e" >
+        <Coords points="5323,2686 5333,2577 5424,2577 5447,2599 5634,2599 5643,2686 5620,2755 5333,2741"/>
+        <Baseline points="5326,2687 5647,2687"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f7270b11" custom="structure {type:Signature;}">
+        <Coords points="5963,2672 5981,2572 6100,2586 6137,2563 6196,2563 6292,2581 6297,2755 6269,2736 6164,2764 6082,2764 6036,2736 5972,2746"/>
+        <Baseline points="5967,2676 6310,2671"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_48e01eb9" >
+        <Coords points="2010,2782 2015,2750 2056,2750 2092,2714 2294,2727 2394,2709 2440,2746 2572,2746 2627,2718 2664,2732 2705,2704 2801,2704 2837,2741 2883,2723 2929,2741 3034,2736 3093,2700 3121,2727 3148,2714 3171,2736 3276,2736 3290,2764 3281,2796 3249,2810 3089,2796 2952,2814 2906,2796 2805,2814 2751,2791 2677,2810 2417,2800 2326,2823 2147,2800 2019,2810"/>
+        <Baseline points="2011,2787 3293,2765"/>
+        <TextEquiv>
+          <Unicode>Millet, ---- Mariehonoré Agathe ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29bfbda9" >
+        <Coords points="3518,2764 3555,2718 3710,2718 3806,2746 3994,2746 4003,2773 3989,2810 3957,2791 3898,2810 3811,2791 3765,2810 3655,2787 3523,2805"/>
+        <Baseline points="3520,2765 4006,2776"/>
+        <TextEquiv>
+          <Unicode>Cuisinière -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_296a3072" >
+        <Coords points="4126,2768 4131,2714 4272,2714 4318,2736 4345,2718 4405,2750 4437,2723 4487,2750 4606,2750 4661,2714 4844,2714 4889,2750 5045,2750 5058,2773 5045,2805 4990,2819 4949,2800 4752,2800 4702,2819 4656,2800 4569,2819 4464,2800 4432,2819 4391,2800 4373,2819 4259,2819 4236,2800 4131,2796"/>
+        <Baseline points="4127,2770 5061,2776"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue des quatrefils n° 22 ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_090b4eef" >
+        <Coords points="3518,2937 3532,2883 3555,2905 3623,2883 3669,2905 3697,2887 3783,2887 3820,2915 3898,2915 3911,2951 3875,2983 3687,2983 3651,3001 3559,2979 3523,2997"/>
+        <Baseline points="3520,2942 3912,2953"/>
+        <TextEquiv>
+          <Unicode>m^d épicier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b95a26a8" custom="structure {type:Signature;}">
+        <Coords points="5986,2924 5995,2855 6013,2846 6109,2855 6137,2828 6228,2846 6297,2828 6297,3011 6224,3024 6192,3001 6155,3020 6077,3001 6050,3024 5995,3024"/>
+        <Baseline points="5989,2925 6310,2925"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1dac22b2" >
+        <Coords points="493,2969 502,2928 667,2919 662,3006 598,2997 552,3024 502,3024"/>
+        <Baseline points="495,2973 679,2973"/>
+        <TextEquiv>
+          <Unicode>6503</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3592ad40" >
+        <Coords points="735,2974 740,2901 799,2892 849,2901 886,2937 1055,2933 1069,2965 1060,3011 744,3006"/>
+        <Baseline points="735,2974 1069,2965"/>
+        <TextEquiv>
+          <Unicode>dud^t -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_368ef539" >
+        <Coords points="1110,2960 1119,2919 1192,2924 1233,2896 1284,2924 1366,2924 1421,2896 1480,2896 1517,2919 1558,2896 1594,2960 1572,3006 1412,3015 1329,2988 1265,3015 1229,2988 1160,2988 1119,3015"/>
+        <Baseline points="1111,2965 1595,2965"/>
+        <TextEquiv>
+          <Unicode>M^e Boudet (Gisors) -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bf1116f0" >
+        <Coords points="1622,2960 1631,2905 1754,2910 1773,2892 1942,2901 1987,2915 2001,2956 1987,3024 1942,2992 1910,2992 1878,3024 1827,3024 1791,2992 1699,3024 1663,2992 1626,2992"/>
+        <Baseline points="1624,2964 2006,2958"/>
+        <TextEquiv>
+          <Unicode>23 Juin 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b41d9f33" >
+        <Coords points="2019,2951 2024,2905 2079,2892 2220,2915 2348,2892 2568,2915 2595,2887 2636,2887 2659,2910 2705,2887 2732,2915 2824,2915 2874,2883 2924,2901 2988,2883 3029,2910 3112,2910 3144,2887 3230,2910 3244,2937 3230,2988 3034,2969 2979,2988 2751,2974 2728,2992 2613,2974 2417,2997 2330,2979 2257,2997 2207,2979 2024,2988"/>
+        <Baseline points="2022,2953 3249,2942"/>
+        <TextEquiv>
+          <Unicode>Arnoult, ---- Pierre aimablehonoré --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d29bbbbf" >
+        <Coords points="4108,2951 4117,2910 4163,2896 4199,2910 4249,2887 4387,2910 4428,2887 4528,2915 4597,2915 4615,2896 4656,2910 4674,2892 4748,2892 4766,2915 4816,2896 4844,2919 5035,2901 5067,2915 5077,2965 4999,3015 4930,3015 4903,2988 4816,3011 4748,2979 4693,3001 4665,2983 4565,2983 4537,3011 4455,3011 4396,2979 4336,2979 4309,3006 4222,2979 4190,2997 4112,2979"/>
+        <Baseline points="4111,2953 5078,2969"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue delagrande truanderie n° 29 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_bb0e3789" >
+        <Coords points="5337,2956 5346,2919 5392,2901 5438,2919 5566,2901 5584,2919 5625,2910 5634,2960 5620,3015 5566,2997 5524,3015 5378,2997 5342,3015"/>
+        <Baseline points="5342,2960 5637,2963"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6ae9e417" >
+        <Coords points="1992,3038 1997,3011 2047,2983 2175,3001 2202,2983 2234,3001 2335,2983 2362,3011 2568,3011 2595,2983 2650,3011 2719,3011 2737,2992 2755,3006 2801,2983 3034,3011 3070,2983 3112,3001 3144,2983 3176,3011 3367,3011 3381,3043 3331,3075 2993,3065 2965,3093 2815,3093 2769,3065 2709,3093 2495,3070 2431,3088 2371,3065 2335,3093 2257,3075 2088,3093 1997,3065"/>
+        <Baseline points="1997,3043 3385,3046"/>
+        <TextEquiv>
+          <Unicode>Picard, ----- françoise Eugénie caroline -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fe7b9544" >
+        <Coords points="3546,3043 3555,3011 3943,3001 3952,3047 3870,3079 3806,3079 3788,3061 3738,3079 3550,3065"/>
+        <Baseline points="3547,3047 3956,3052"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ebfdaaa9" >
+        <Coords points="4108,3038 4158,2997 4254,2997 4359,3029 4414,3006 4437,3029 4546,3011 4629,3043 4610,3093 4423,3070 4387,3075 4350,3111 4112,3111"/>
+        <Baseline points="4111,3041 4630,3047"/>
+        <TextEquiv>
+          <Unicode>à Gisors -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e07b941c" custom="structure {type:Signature;}">
+        <Coords points="5963,3184 5968,3139 6068,3139 6123,3093 6164,3093 6201,3129 6242,3093 6274,3093 6310,3120 6320,3189 6306,3285 5968,3271"/>
+        <Baseline points="5967,3185 6321,3190"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e7829479" >
+        <Coords points="484,3239 507,3125 607,3202 685,3193 694,3244 680,3312 589,3276 543,3303 488,3271"/>
+        <Baseline points="486,3240 696,3245"/>
+        <TextEquiv>
+          <Unicode>6504</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a82fe71d" >
+        <Coords points="735,3244 740,3175 799,3198 831,3175 936,3202 973,3189 1028,3202 1041,3234 1009,3276 744,3280"/>
+        <Baseline points="739,3245 1046,3239"/>
+        <TextEquiv>
+          <Unicode>dud^t ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0763b6f8" >
+        <Coords points="1119,3221 1128,3148 1229,3148 1270,3189 1343,3189 1370,3161 1434,3189 1540,3171 1576,3189 1585,3221 1576,3285 1462,3276 1425,3298 1393,3271 1316,3271 1238,3298 1128,3298"/>
+        <Baseline points="1120,3222 1588,3225"/>
+        <TextEquiv>
+          <Unicode>M^e Baudelocque --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d612213" >
+        <Coords points="1617,3216 1626,3175 1695,3157 1832,3180 1914,3161 1978,3184 1987,3230 1974,3294 1933,3271 1869,3289 1850,3271 1814,3285 1763,3266 1727,3298 1622,3298"/>
+        <Baseline points="1620,3219 1990,3234"/>
+        <TextEquiv>
+          <Unicode>11 Juillet 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1ea84f7c" >
+        <Coords points="2019,3221 2024,3102 2563,3102 2650,3175 2705,3157 2764,3189 3166,3180 3198,3216 3185,3248 3121,3271 2929,3262 2910,3244 2796,3266 2746,3244 2719,3266 2641,3271 2595,3248 2563,3266 2481,3248 2454,3271 2326,3271 2257,3244 2193,3266 2138,3244 2024,3262"/>
+        <Baseline points="2021,3222 3200,3219"/>
+        <TextEquiv>
+          <Unicode>Lehéricey, -- louis -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c3756bcc" >
+        <Coords points="3500,3216 3509,3107 3591,3107 3697,3184 3783,3171 3824,3189 3875,3152 3957,3148 4021,3189 4053,3161 4062,3221 4048,3253 3505,3253"/>
+        <Baseline points="3503,3218 4067,3223"/>
+        <TextEquiv>
+          <Unicode>fabricant de meubles -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cfed9607" >
+        <Coords points="4131,3239 4149,3161 4176,3180 4245,3161 4304,3189 4565,3189 4679,3161 4798,3184 4830,3161 4903,3184 5072,3175 5086,3239 5072,3266 4944,3253 4921,3276 4720,3276 4702,3257 4551,3244 4423,3271 4350,3244 4300,3271 4240,3244 4140,3276"/>
+        <Baseline points="4134,3242 5090,3242"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue traversière n° 27, fbg S^t antoine -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1ad98e2c" >
+        <Coords points="5351,3257 5351,3134 5625,3125 5643,3262 5552,3280 5460,3253 5360,3266"/>
+        <Baseline points="5355,3258 5652,3219"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_261b6f4a" >
+        <Coords points="2010,3312 2051,3257 2193,3276 2266,3257 2344,3289 2540,3289 2586,3257 2632,3276 2691,3257 2714,3280 2737,3257 2837,3257 2892,3289 3139,3289 3176,3266 3258,3280 3267,3312 3258,3335 3194,3335 3171,3358 3153,3340 3043,3335 2851,3340 2819,3362 2755,3344 2709,3362 2673,3340 2540,3340 2499,3362 2458,3344 2426,3358 2394,3335 2312,3362 2019,3349"/>
+        <Baseline points="2015,3317 3268,3314"/>
+        <TextEquiv>
+          <Unicode>Vigla, ----- Marie louise -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_df4ac516" >
+        <Coords points="3509,3303 3527,3271 3569,3289 4021,3271 4035,3308 4021,3344 3980,3330 3957,3353 3879,3335 3829,3353 3802,3330 3719,3335 3701,3353 3655,3330 3628,3353 3559,3353 3514,3330"/>
+        <Baseline points="3514,3308 4038,3311"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7e153ec5" >
+        <Coords points="4112,3312 4153,3262 4245,3257 4382,3294 4464,3257 4702,3257 4738,3294 4885,3285 5026,3294 5035,3312 5026,3353 4629,3340 4592,3358 4473,3358 4437,3335 4345,3335 4286,3358 4231,3335 4121,3358"/>
+        <Baseline points="4116,3317 5039,3317"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue des filles Dieu n° 31 ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a1a1b42" custom="structure {type:Signature;}">
+        <Coords points="5963,3449 5972,3404 6073,3404 6132,3367 6196,3394 6260,3381 6288,3404 6297,3458 6283,3536 6256,3554 6160,3554 6128,3531 5968,3550"/>
+        <Baseline points="5967,3450 6299,3461"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_cf242d03" >
+        <Coords points="484,3509 493,3477 566,3449 690,3477 699,3509 690,3577 626,3559 493,3577"/>
+        <Baseline points="488,3513 703,3513"/>
+        <TextEquiv>
+          <Unicode>6505</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4c7d60d5" >
+        <Coords points="722,3499 758,3449 808,3467 849,3445 936,3445 959,3467 1005,3467 1014,3499 1000,3541 731,3554"/>
+        <Baseline points="724,3500 1017,3500"/>
+        <TextEquiv>
+          <Unicode>21 dud^t -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_dbdd8341" >
+        <Coords points="1110,3490 1119,3454 1197,3458 1224,3431 1329,3458 1370,3422 1398,3440 1448,3431 1503,3463 1572,3413 1667,3413 1677,3499 1663,3536 1622,3550 1553,3531 1512,3550 1457,3531 1421,3545 1393,3527 1306,3527 1288,3545 1115,3536"/>
+        <Baseline points="1115,3495 1679,3501"/>
+        <TextEquiv>
+          <Unicode>M^es Achet et Porcher (orléans)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1ed4e779" >
+        <Coords points="1677,3486 1686,3394 1741,3376 1841,3376 1910,3436 1992,3436 2001,3486 1992,3545 1928,3522 1782,3522 1759,3545 1686,3545"/>
+        <Baseline points="1680,3489 2006,3489"/>
+        <TextEquiv>
+          <Unicode>17 9^bre 1830 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a92f3687" >
+        <Coords points="2010,3486 2015,3381 2070,3376 2568,3376 2636,3445 2687,3445 2732,3417 2778,3445 3080,3445 3121,3417 3153,3445 3249,3445 3262,3481 3249,3518 3221,3522 3166,3504 3130,3531 3098,3513 3016,3545 2979,3509 2888,3513 2760,3563 2568,3563 2499,3522 2422,3518 2358,3541 2330,3513 2152,3536 2115,3504 2015,3522"/>
+        <Baseline points="2011,3489 3265,3483"/>
+        <TextEquiv>
+          <Unicode>Bouilly, --- Jean Baptiste Mesmin --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ad569968" >
+        <Coords points="3527,3481 3537,3431 3646,3431 3665,3449 3719,3431 3770,3454 3989,3440 4003,3490 3989,3527 3957,3513 3934,3531 3911,3513 3792,3531 3642,3509 3532,3527"/>
+        <Baseline points="3531,3483 4006,3494"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5196f6b9" >
+        <Coords points="4121,3499 4144,3436 4245,3426 4309,3426 4336,3454 4505,3454 4533,3426 4601,3454 4620,3436 4665,3454 4693,3426 4766,3454 4971,3454 5013,3431 5035,3499 5026,3531 4999,3541 4866,3541 4844,3518 4766,3513 4711,3541 4624,3513 4546,3531 4524,3513 4391,3513 4327,3541 4300,3513 4131,3509"/>
+        <Baseline points="4123,3501 5036,3501"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue des bons enfans n° 37 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_5750dff6" >
+        <Coords points="5328,3518 5333,3454 5520,3440 5552,3404 5698,3394 5707,3536 5643,3522 5584,3541 5561,3522 5543,3541 5410,3550 5333,3531"/>
+        <Baseline points="5332,3519 5719,3500"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2f56bb2f" >
+        <Coords points="2010,3573 2015,3541 2070,3518 2147,3536 2335,3518 2358,3541 2399,3518 2463,3545 2655,3545 2700,3522 2819,3545 2883,3518 2961,3545 2993,3522 3043,3545 3093,3518 3125,3541 3194,3518 3221,3545 3322,3545 3335,3568 3322,3609 3208,3618 2015,3614"/>
+        <Baseline points="2011,3577 3337,3571"/>
+        <TextEquiv>
+          <Unicode>Mouton, -- Marie madelaine Anatolie --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_490e7879" >
+        <Coords points="3546,3582 3569,3541 3971,3541 4007,3554 4016,3586 3998,3614 3943,3595 3916,3614 3550,3600"/>
+        <Baseline points="3547,3583 4017,3588"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fec08c1d" >
+        <Coords points="4080,3568 4112,3513 4300,3513 4332,3545 4414,3545 4515,3513 4542,3531 4638,3518 4674,3550 4834,3518 4880,3550 5067,3545 5090,3577 5067,3609 4949,3623 4908,3605 4857,3623 4720,3605 4556,3618 4537,3600 4437,3618 4140,3600 4085,3618"/>
+        <Baseline points="4082,3569 5094,3581"/>
+        <TextEquiv>
+          <Unicode>à Orléans, rue des carmes n° 65 -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_91cf37f4" >
+        <Coords points="493,3755 511,3664 690,3669 699,3764 680,3815 498,3806"/>
+        <Baseline points="497,3759 702,3765"/>
+        <TextEquiv>
+          <Unicode>6506</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4ecef998" >
+        <Coords points="731,3760 740,3714 1000,3728 1028,3760 1019,3815 740,3810"/>
+        <Baseline points="732,3761 1032,3764"/>
+        <TextEquiv>
+          <Unicode>dud^t ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_62db2c63" >
+        <Coords points="1119,3760 1133,3710 1192,3705 1293,3723 1380,3705 1530,3719 1549,3760 1540,3819 1466,3801 1416,3819 1293,3819 1274,3801 1128,3815"/>
+        <Baseline points="1120,3763 1553,3764"/>
+        <TextEquiv>
+          <Unicode>M^e Dentend --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_90318d63" >
+        <Coords points="1640,3751 1658,3705 1809,3696 1978,3696 1992,3742 1983,3810 1649,3810"/>
+        <Baseline points="1645,3755 1994,3746"/>
+        <TextEquiv>
+          <Unicode>14 juillet 1836</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fefd5394" >
+        <Coords points="2010,3751 2019,3637 2065,3659 2152,3641 2536,3641 2623,3655 2700,3696 2938,3701 2947,3751 2938,3787 2824,3778 2751,3833 2581,3833 2508,3778 2412,3806 2380,3778 2312,3796 2184,3778 2129,3801 2070,3774 2019,3801"/>
+        <Baseline points="2011,3754 2950,3754"/>
+        <TextEquiv>
+          <Unicode>Palliard, --- Gilbert ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_64e69700" >
+        <Coords points="3505,3751 3514,3696 3582,3696 3601,3714 3660,3696 3683,3719 4021,3714 4030,3751 4021,3792 3783,3792 3747,3774 3651,3792 3605,3769 3514,3769"/>
+        <Baseline points="3509,3752 4035,3755"/>
+        <TextEquiv>
+          <Unicode>Courtier deVins ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4d5754e5" >
+        <Coords points="4090,3751 4099,3710 4245,3691 4286,3710 4460,3710 4483,3691 4601,3691 4620,3710 4661,3691 4697,3710 5058,3701 5067,3751 5058,3787 4967,3801 4935,3783 4812,3801 4748,3778 4624,3796 4601,3783 4583,3801 4492,3801 4460,3778 4396,3801 4300,3801 4277,3778 4254,3796 4231,3778 4099,3796"/>
+        <Baseline points="4094,3752 5072,3755"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue et ileS^t louis n° 74 ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f90217a1" >
+        <Coords points="5099,3746 5109,3595 5150,3600 5218,3659 5342,3659 5378,3632 5406,3659 5424,3646 5534,3673 5616,3650 5634,3669 5684,3659 5767,3614 5858,3614 5853,3824 5785,3824 5767,3806 5735,3824 5684,3801 5657,3819 5620,3787 5460,3810 5419,3787 5168,3783 5104,3810"/>
+        <Baseline points="5100,3748 5868,3765"/>
+        <TextEquiv>
+          <Unicode>Comm^té debiens, réduite aux acquêts</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a77a00af" custom="structure {type:Signature;}">
+        <Coords points="5977,3742 5986,3659 6073,3655 6105,3627 6155,3627 6187,3659 6251,3627 6301,3637 6310,3746 6292,3810 5981,3801"/>
+        <Baseline points="5978,3743 6315,3748"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f2f8f74c" >
+        <Coords points="1992,3833 1997,3778 2106,3778 2147,3806 2193,3783 2220,3801 2248,3778 2289,3796 2380,3778 2422,3801 2449,3778 2490,3810 2645,3810 2691,3792 2824,3810 2860,3787 2897,3810 2933,3778 2984,3778 3020,3806 3171,3806 3185,3828 3171,3870 3121,3865 3102,3883 3029,3883 3011,3865 2952,3883 2828,3865 2760,3883 2568,3865 2527,3883 2394,3883 2371,3865 2156,3883 2134,3865 2070,3883 2001,3865"/>
+        <Baseline points="1995,3837 3188,3831"/>
+        <TextEquiv>
+          <Unicode>Vaucaire, -- Reine marielouise --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ceba485f" >
+        <Coords points="3555,3847 3559,3796 3605,3819 3779,3796 3866,3815 3902,3796 3962,3806 3980,3851 3939,3888 3888,3865 3738,3888 3559,3865"/>
+        <Baseline points="3558,3848 3984,3853"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d91ea04f" >
+        <Coords points="4108,3847 4112,3801 4149,3787 4309,3810 4551,3810 4592,3783 4844,3806 4944,3792 5003,3806 5017,3838 5003,3892 4926,3874 4894,3892 4844,3870 4716,3870 4684,3892 4574,3870 4551,3897 4487,3879 4432,3897 4112,3879"/>
+        <Baseline points="4111,3848 5022,3842"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue grangebatelière n° 1^er -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_c20c8d19" custom="structure {type:Signature;}">
+        <Coords points="5959,3970 5968,3847 6310,3842 6320,3970 6301,4080 5968,4080"/>
+        <Baseline points="5962,3975 6321,3975"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ffa5a0b5" >
+        <Coords points="479,4034 484,4002 516,3988 594,3988 680,4002 694,4039 680,4075 626,4107 580,4084 484,4116"/>
+        <Baseline points="481,4035 696,4041"/>
+        <TextEquiv>
+          <Unicode>6507</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_64ee169d" >
+        <Coords points="726,4034 744,3984 767,4002 854,3984 895,4011 1023,4030 1014,4066 982,4061 955,4084 735,4071"/>
+        <Baseline points="727,4037 1025,4033"/>
+        <TextEquiv>
+          <Unicode>dud^t ----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2f6b5cdd" >
+        <Coords points="1096,4020 1105,3998 1165,3984 1293,3998 1320,3970 1384,3998 1444,3970 1517,3998 1581,3970 1590,4020 1567,4071 1105,4071"/>
+        <Baseline points="1100,4025 1591,4025"/>
+        <TextEquiv>
+          <Unicode>M^e Morel d&#39;arleux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ebeb908b" >
+        <Coords points="1622,4025 1626,3979 1699,3966 1978,3966 1992,4020 1969,4075 1901,4080 1859,4057 1791,4075 1773,4057 1741,4084 1686,4084 1631,4057"/>
+        <Baseline points="1623,4026 1993,4024"/>
+        <TextEquiv>
+          <Unicode>14 juillet 1836</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b1b9733e" >
+        <Coords points="2015,4016 2024,3915 2577,3915 2650,3975 2755,3956 2787,3975 2961,3975 2993,3956 3066,3975 3093,3952 3116,3975 3230,3975 3240,4016 3230,4052 3112,4048 3084,4075 3034,4048 3002,4075 2933,4075 2910,4052 2856,4061 2837,4043 2778,4043 2755,4066 2723,4052 2705,4071 2641,4048 2609,4075 2563,4043 2527,4066 2440,4043 2262,4071 2225,4043 2184,4061 2134,4043 2097,4075 2024,4075"/>
+        <Baseline points="2017,4019 3243,4019"/>
+        <TextEquiv>
+          <Unicode>Lucas, ----- françois Marie Joseph ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f660688d" >
+        <Coords points="3509,3998 3518,3943 3564,3943 3642,3970 3756,3970 3774,3952 3843,3952 3870,3979 4053,3970 4076,4016 4062,4052 3975,4043 3943,4075 3879,4048 3829,4071 3760,4066 3637,4030 3573,4030 3514,4061"/>
+        <Baseline points="3514,4002 4078,4019"/>
+        <TextEquiv>
+          <Unicode>fabricant depapiers peints -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_31cc4463" >
+        <Coords points="4108,4025 4112,3988 4204,3956 4263,3975 4291,3961 4345,3988 4409,3956 4455,3984 4492,3961 4574,3961 4597,3984 4661,3961 4766,3961 4789,3984 4876,3984 4889,4016 4880,4052 4775,4061 4697,4061 4679,4043 4592,4061 4533,4039 4496,4066 4286,4066 4263,4043 4117,4043"/>
+        <Baseline points="4111,4030 4890,4019"/>
+        <TextEquiv>
+          <Unicode>à Paris, ruepopincourt n° 58 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_1327c38e" >
+        <Coords points="5173,4034 5177,3961 5269,3984 5488,3984 5556,3929 5794,3943 5808,4030 5794,4084 5721,4084 5680,4061 5602,4084 5529,4066 5488,4084 5460,4061 5401,4061 5378,4084 5314,4084 5287,4061 5177,4080"/>
+        <Baseline points="5174,4039 5810,4034"/>
+        <TextEquiv>
+          <Unicode>Communauté debiens.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_b58f8e0f" >
+        <Coords points="2010,4098 2015,4048 2161,4048 2188,4066 2216,4048 2248,4066 2335,4048 2399,4080 2522,4080 2554,4048 2650,4075 2837,4048 2856,4066 2906,4052 2933,4080 3317,4071 3390,4093 3349,4144 2015,4144"/>
+        <Baseline points="2011,4102 3393,4096"/>
+        <TextEquiv>
+          <Unicode>Lesage, ----- Marie alexandrine -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ee40fdbf" >
+        <Coords points="3532,4098 3537,4066 3578,4061 3701,4084 3760,4071 3779,4089 3920,4071 3998,4075 4003,4125 3948,4162 3907,4139 3770,4153 3728,4130 3537,4135"/>
+        <Baseline points="3536,4102 4006,4130"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_16b90f8e" >
+        <Coords points="4108,4103 4117,4039 4140,4039 4185,4066 4231,4043 4259,4071 4382,4057 4400,4075 4697,4061 4716,4080 4793,4080 4821,4052 4903,4052 4921,4075 4999,4057 5017,4075 5113,4057 5131,4121 5118,4194 5026,4194 4953,4144 4839,4130 4647,4148 4620,4130 4515,4130 4455,4162 4432,4139 4359,4162 4327,4135 4286,4171 4245,4139 4190,4180 4112,4180"/>
+        <Baseline points="4111,4107 5133,4124"/>
+        <TextEquiv>
+          <Unicode>à Paris, avenue des ormes n° 1^er, barrière du trône</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_92b53cda" >
+        <Coords points="502,4313 511,4258 589,4253 680,4263 694,4304 685,4354 621,4340 594,4368 511,4368"/>
+        <Baseline points="505,4317 695,4307"/>
+        <TextEquiv>
+          <Unicode>6508</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_54bc3c6e" >
+        <Coords points="1083,4295 1092,4258 1211,4258 1233,4235 1366,4263 1393,4240 1425,4263 1448,4240 1480,4263 1517,4240 1658,4240 1677,4304 1663,4400 1535,4400 1439,4331 1380,4327 1357,4345 1306,4317 1274,4340 1238,4317 1188,4327 1142,4354 1115,4336 1087,4358"/>
+        <Baseline points="1086,4299 1680,4305"/>
+        <TextEquiv>
+          <Unicode>M^e Demorlaine (Mouy)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0458a66d" >
+        <Coords points="1672,4299 1681,4244 1741,4249 1763,4226 1823,4244 1937,4167 1992,4167 2006,4340 1823,4322 1795,4354 1736,4354 1681,4331"/>
+        <Baseline points="1674,4303 2011,4279"/>
+        <TextEquiv>
+          <Unicode>28 Juin 1836</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a0480c3f" >
+        <Coords points="3518,4272 3527,4203 3591,4203 3637,4231 3815,4217 3907,4240 3916,4290 3902,4327 3733,4327 3692,4304 3669,4327 3619,4327 3587,4299 3523,4322"/>
+        <Baseline points="3520,4273 3917,4295"/>
+        <TextEquiv>
+          <Unicode>m^d Epicier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11f573ab" >
+        <Coords points="4099,4290 4103,4240 4163,4221 4451,4240 4830,4226 4866,4285 4848,4322 4108,4308"/>
+        <Baseline points="4100,4295 4868,4290"/>
+        <TextEquiv>
+          <Unicode>à Pierrefitte (Seine) ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_01de95b0" >
+        <Coords points="5319,4290 5333,4244 5406,4231 5479,4263 5611,4249 5620,4299 5607,4331 5515,4331 5474,4363 5456,4345 5323,4358"/>
+        <Baseline points="5321,4295 5625,4301"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7a61719e" custom="structure {type:Signature;}">
+        <Coords points="5931,4267 5936,4203 6055,4199 6091,4167 6164,4167 6192,4194 6242,4180 6256,4258 6242,4336 6219,4349 6096,4331 5991,4354 5936,4331"/>
+        <Baseline points="5934,4268 6260,4262"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_86991803" >
+        <Coords points="717,4304 726,4258 859,4244 881,4263 982,4258 991,4313 927,4354 799,4331 722,4345"/>
+        <Baseline points="718,4306 995,4317"/>
+        <TextEquiv>
+          <Unicode>dud^t --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_fcd1dd5a" >
+        <Coords points="2015,4281 2038,4235 2316,4249 2390,4226 2490,4253 2563,4253 2591,4226 2632,4226 2659,4253 2714,4231 2773,4253 2801,4226 2869,4226 2938,4253 3089,4253 3098,4281 3089,4322 3052,4340 2997,4313 2933,4340 2828,4340 2783,4313 2709,4317 2687,4340 2636,4313 2568,4340 2499,4317 2440,4340 2348,4313 2188,4322 2170,4340 2092,4313 2024,4336"/>
+        <Baseline points="2017,4284 3100,4284"/>
+        <TextEquiv>
+          <Unicode>Anquetin, -- Leandre Jacques --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ee1048ab" >
+        <Coords points="2015,4363 2074,4322 2115,4322 2143,4349 2202,4322 2275,4340 2307,4322 2472,4322 2508,4349 2554,4349 2591,4322 2668,4349 2741,4327 2828,4354 3066,4345 3153,4354 3166,4372 3153,4409 3125,4413 2810,4404 2773,4427 2737,4413 2659,4436 2508,4432 2485,4409 2431,4432 2344,4432 2234,4400 2179,4422 2111,4404 2079,4422 2019,4413"/>
+        <Baseline points="2017,4367 3171,4373"/>
+        <TextEquiv>
+          <Unicode>Mansard, -- Joséphine -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4a0db097" >
+        <Coords points="3532,4358 3550,4322 3569,4336 3605,4317 3628,4345 3710,4349 3948,4336 3957,4381 3943,4413 3856,4400 3829,4422 3537,4390"/>
+        <Baseline points="3536,4362 3962,4384"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_8aa022aa" >
+        <Coords points="4103,4386 4108,4313 4263,4340 4437,4313 4546,4336 4606,4313 4684,4331 4761,4313 4807,4340 4908,4317 4930,4340 5026,4340 5040,4381 5026,4418 4999,4404 4967,4422 4825,4422 4780,4404 4638,4404 4606,4422 4560,4400 4441,4400 4419,4422 4245,4422 4204,4400 4108,4413"/>
+        <Baseline points="4105,4389 5045,4384"/>
+        <TextEquiv>
+          <Unicode>à Mouy, place del&#39;hôtel deville --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_13ab7336" >
+        <Coords points="2029,4550 2042,4450 2522,4450 2618,4509 3011,4486 3070,4509 3203,4509 3217,4555 3203,4610 3057,4605 3038,4587 2783,4587 2741,4610 2705,4587 2673,4605 2632,4587 2591,4610 2454,4592 2431,4610 2033,4592"/>
+        <Baseline points="2033,4555 3221,4560"/>
+        <TextEquiv>
+          <Unicode>Fauchet, --- Louis, veuf Fillion -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e4574907" custom="structure {type:Signature;}">
+        <Coords points="5954,4537 5959,4459 6009,4459 6055,4432 6178,4459 6228,4432 6242,4532 6219,4614 5959,4605"/>
+        <Baseline points="5956,4538 6244,4533"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ed94de7d" >
+        <Coords points="488,4569 498,4546 566,4528 594,4550 639,4532 680,4578 648,4651 493,4614"/>
+        <Baseline points="493,4573 685,4582"/>
+        <TextEquiv>
+          <Unicode>6509</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_06cd5329" >
+        <Coords points="703,4582 735,4537 840,4537 872,4560 1064,4550 1078,4582 1064,4619 1037,4605 996,4646 881,4646 781,4605 712,4619"/>
+        <Baseline points="707,4587 1083,4587"/>
+        <TextEquiv>
+          <Unicode>dud^t -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_29bf98e9" >
+        <Coords points="1087,4564 1115,4509 1142,4532 1233,4514 1375,4537 1402,4518 1485,4537 1572,4523 1585,4573 1572,4614 1549,4605 1530,4623 1416,4596 1311,4614 1220,4592 1160,4637 1092,4637"/>
+        <Baseline points="1089,4569 1590,4578"/>
+        <TextEquiv>
+          <Unicode>M^e Bonnaire ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_11cc1a31" >
+        <Coords points="1617,4582 1622,4528 1699,4528 1741,4505 1782,4523 1800,4505 1960,4518 2001,4500 2015,4569 2006,4610 1969,4582 1891,4610 1855,4587 1805,4592 1745,4623 1626,4596"/>
+        <Baseline points="1618,4583 2016,4571"/>
+        <TextEquiv>
+          <Unicode>16 Juillet 1836 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_9cb86fa3" >
+        <Coords points="3509,4578 3514,4486 3637,4486 3674,4514 3715,4500 3774,4523 3866,4491 3907,4523 3984,4514 3998,4573 3980,4596 3847,4587 3806,4610 3747,4582 3701,4582 3669,4610 3573,4610 3514,4587"/>
+        <Baseline points="3514,4581 4001,4574"/>
+        <TextEquiv>
+          <Unicode>m^d grainier ---</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_660cf67c" >
+        <Coords points="4090,4564 4099,4505 4176,4514 4236,4491 4428,4518 4501,4486 4569,4514 4606,4496 4789,4496 4807,4514 4862,4509 4876,4555 4866,4582 4834,4587 4099,4582"/>
+        <Baseline points="4094,4566 4879,4560"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue de Tracy n° 5 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_a91dbd1a" >
+        <Coords points="5342,4560 5351,4518 5387,4505 5566,4518 5575,4560 5561,4610 5511,4596 5351,4614"/>
+        <Baseline points="5345,4564 5579,4564"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_065945c0" >
+        <Coords points="2001,4642 2010,4610 2047,4596 2102,4601 2124,4623 2156,4601 2252,4596 2280,4619 2330,4601 2412,4628 2577,4628 2604,4601 2645,4614 2714,4596 2764,4619 2787,4596 2952,4596 2997,4628 3171,4614 3276,4628 3285,4646 3272,4687 2815,4674 2792,4692 2600,4697 2559,4674 2513,4697 2476,4674 2440,4697 2271,4697 2188,4674 2006,4697"/>
+        <Baseline points="2006,4643 3288,4649"/>
+        <TextEquiv>
+          <Unicode>Denin, ---- Victoire louise -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0d79e122" >
+        <Coords points="3509,4651 3518,4601 3687,4628 3811,4610 3852,4633 3952,4610 3998,4619 4007,4665 3925,4687 3651,4665 3514,4678"/>
+        <Baseline points="3514,4655 4010,4666"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_d819d275" >
+        <Coords points="4108,4646 4112,4582 4167,4605 4195,4582 4263,4582 4300,4605 4359,4587 4441,4605 4464,4582 4729,4605 4757,4582 4839,4605 4981,4592 5008,4651 4994,4701 4935,4701 4903,4678 4812,4683 4793,4701 4729,4697 4706,4674 4624,4674 4597,4701 4542,4678 4515,4701 4391,4701 4368,4678 4309,4701 4259,4674 4208,4701 4181,4678 4112,4678"/>
+        <Baseline points="4111,4649 5011,4654"/>
+        <TextEquiv>
+          <Unicode>à Paris, rue S^te appoline n° 16 --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_4128e8d7" >
+        <Coords points="2010,4806 2033,4761 2079,4756 2134,4783 2166,4761 2220,4783 2303,4765 2586,4783 2627,4756 2677,4788 2778,4756 2842,4774 2883,4761 2915,4788 2974,4756 3052,4756 3084,4788 3148,4788 3203,4761 3217,4779 3322,4788 3335,4815 3322,4879 3235,4879 3217,4861 3162,4879 3130,4861 3102,4879 2815,4861 2783,4879 2650,4857 2540,4875 2449,4857 2348,4857 2330,4875 2015,4857"/>
+        <Baseline points="2011,4809 3337,4820"/>
+        <TextEquiv>
+          <Unicode>Vasseur, ---- Pierrefrançois Chrysostôme -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_6e51349e" >
+        <Coords points="3500,4797 3509,4751 3573,4747 3651,4774 3724,4756 3802,4779 3916,4770 3943,4779 3952,4811 3939,4852 3879,4847 3847,4870 3802,4847 3710,4866 3646,4838 3505,4861"/>
+        <Baseline points="3503,4798 3956,4815"/>
+        <TextEquiv>
+          <Unicode>layetier -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_39a9f06e" custom="structure {type:Signature;}">
+        <Coords points="5931,4797 5940,4733 6027,4733 6068,4692 6233,4715 6233,4884 5940,4879"/>
+        <Baseline points="5934,4798 6244,4798"/>
+        <TextEquiv>
+          <Unicode>¥</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_2fc3ca61" >
+        <Coords points="475,4852 484,4811 575,4797 653,4802 676,4857 598,4875 552,4911 534,4898 479,4920"/>
+        <Baseline points="477,4857 678,4858"/>
+        <TextEquiv>
+          <Unicode>6510</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_022f1c19" >
+        <Coords points="726,4857 735,4802 836,4788 973,4820 982,4866 881,4907 845,4875 799,4902 731,4902"/>
+        <Baseline points="729,4861 984,4867"/>
+        <TextEquiv>
+          <Unicode>dud^t --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82345966" >
+        <Coords points="1092,4829 1101,4793 1233,4793 1270,4815 1311,4793 1334,4815 1485,4829 1476,4884 1453,4893 1375,4870 1352,4893 1101,4870"/>
+        <Baseline points="1094,4831 1486,4831"/>
+        <TextEquiv>
+          <Unicode>M^e Andry --</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_7c76ad6c" >
+        <Coords points="1608,4857 1645,4793 1681,4802 1695,4783 1855,4797 1955,4779 1978,4815 1974,4866 1942,4889 1841,4861 1805,4902 1713,4911 1667,4879 1617,4884"/>
+        <Baseline points="1612,4859 1979,4817"/>
+        <TextEquiv>
+          <Unicode>30 Juin 1836</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_138acc4e" >
+        <Coords points="4103,4843 4112,4774 4227,4765 4355,4797 4419,4761 4464,4761 4496,4788 4597,4788 4624,4756 4684,4783 4720,4761 4830,4761 4853,4779 4981,4761 5013,4774 5026,4811 4889,4857 4761,4843 4748,4861 4679,4861 4661,4843 4578,4866 4524,4843 4441,4861 4373,4843 4341,4875 4300,4875 4240,4852 4112,4852"/>
+        <Baseline points="4105,4846 5028,4815"/>
+        <TextEquiv>
+          <Unicode>à Paris, ruebeauregard n° 16 -</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_82cd5d68" >
+        <Coords points="5342,4829 5351,4770 5602,4774 5602,4875 5351,4879"/>
+        <Baseline points="5343,4834 5616,4834"/>
+        <TextEquiv>
+          <Unicode>Idem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_451526af" >
+        <Coords points="2010,4907 2038,4861 2170,4889 2266,4861 2394,4866 2417,4889 2888,4861 2910,4884 2947,4866 3006,4889 3235,4889 3262,4870 3281,4889 3349,4889 3358,4911 3331,4971 3253,4966 3230,4943 3020,4948 2961,4971 2897,4971 2869,4943 2737,4948 2719,4966 2682,4948 2659,4971 2348,4971 2321,4952 2262,4971 2207,4948 2170,4971 2124,4943 2015,4971"/>
+        <Baseline points="2011,4909 3359,4914"/>
+        <TextEquiv>
+          <Unicode>Diacre, ---- Marie catherine -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_3d966adf" >
+        <Coords points="3550,4893 3569,4870 3701,4884 3779,4866 3893,4893 3966,4879 3994,4911 3980,4966 3555,4939"/>
+        <Baseline points="3553,4898 3995,4914"/>
+        <TextEquiv>
+          <Unicode>-----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0e5f4979" >
+        <Coords points="4099,4911 4108,4857 4158,4879 4204,4852 4359,4879 4451,4852 4556,4852 4606,4884 4652,4857 4693,4875 4825,4857 4862,4884 5031,4884 5040,4920 4981,4980 4908,4934 4775,4971 4725,4934 4661,4962 4537,4934 4483,4957 4437,4930 4400,4948 4336,4934 4236,5021 4103,5021"/>
+        <Baseline points="4100,4914 5045,4925"/>
+        <TextEquiv>
+          <Unicode>à Paris, ruehauteville n° 31 -----</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
