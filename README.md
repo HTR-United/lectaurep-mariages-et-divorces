@@ -3,10 +3,9 @@
 # lectaurep-mariages-et-divorces
 
 <!-- badges HUMGenerator -->
-
 ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/cm-sd_regions.json)
 ![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/cm-sd_lines.json)
-![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/cm-sd_chars.json)
+![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/cm-sd_chars-json)
 
 
 ## Contexte de production 
