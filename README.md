@@ -33,11 +33,11 @@ Une petite partie de ce corpus correspond également aux enregistrements des jug
 > SD : Séparation et Divorces
 
 
-| nom             | importance matérielle | dates extremes    | particularité | CM ou SD |<!-- lien eScriptorium | --> 
-| --------------- | --------------------- | ----------------- | ------------- | -------- |<!-- ----------------- | -->
-| lectaurep-cm1   | 30 doubles-pages      | 04/1829 - 10/1829 | 1 seule main  | CM/1     |<!-- [#152](https://escriptorium.inria.fr/document/152/images/) |-->
-| lectaurep-cm3   | 30 doubles-pages      | 03-1836 - 08-1836 | 1 seule main  | CM/3     |<!-- [#267](https://escriptorium.inria.fr/document/267/images/) |-->
-| lectaurep-cm-sd | 44 doubles-pages      | 1829, 1832, 1836, 1838, 1839, 1841, 1844, 1846, 1850, 1852, 1854, 1855, 1862, 1864, 1866, 1868, 1870, 1872, 1875, 1877, 1879, 1881, 1883, 1885, 1887, 1889, 1891, 1892, 1893, 1895, 1896, 1897, 1898, 1899, 1900, 1903, 1909, 1927, 1928 | échantillonnages par carottage | CM + SD |<!-- [#603](https://escriptorium.inria.fr/document/603/images/) |-->
+| nom             | importance matérielle | dates extremes    | particularité | CM ou SD | identifiant db |
+| --------------- | --------------------- | ----------------- | ------------- | -------- | -------------- |
+| lectaurep-cm1   | 30 doubles-pages      | 04/1829 - 10/1829 | 1 seule main  | CM/1     | [#152](https://escriptorium.inria.fr/document/152/images/) |
+| lectaurep-cm3   | 30 doubles-pages      | 03-1836 - 08-1836 | 1 seule main  | CM/3     | [#267](https://escriptorium.inria.fr/document/267/images/) |
+| lectaurep-cm-sd | 44 doubles-pages      | 1829, 1832, 1836, 1838, 1839, 1841, 1844, 1846, 1850, 1852, 1854, 1855, 1862, 1864, 1866, 1868, 1870, 1872, 1875, 1877, 1879, 1881, 1883, 1885, 1887, 1889, 1891, 1892, 1893, 1895, 1896, 1897, 1898, 1899, 1900, 1903, 1909, 1927, 1928 | échantillonnages par carottage | CM + SD | [#603](https://escriptorium.inria.fr/document/603/images/) |
 
 
 ## Règles de transcription
@@ -67,10 +67,6 @@ Une petite partie de ce corpus correspond également aux enregistrements des jug
 ![illus_upper](static/img/illus_printed.png)
 
 - les portions de texte pré-imprimées, notamment les en-têtes des tableaux et les préambules ont été transcrits. Les segments concernés ont été associés au type "printed".
-
-
-<!--- les s longs ont été transcrits par des `s` simples.-->
-
 
 
 ---
