@@ -9,6 +9,7 @@ authors:
   given-names: "Alix"
   orcid: "https://orcid.org/0000-0002-0136-4434"
 title: "Lectaurep-Mariages-et-Divorces: ground truth for the Enregistrements des Contrats de Mariages et des Séparations et Divorces in Paris (French 19th century) "
-version: 1.0.0
+version: 1.0
+doi: 10.5072/zenodo.977697 
 date-released: 2021-11-30
 url: "https://github.com/HTR-United/lectaurep-mariages-et-divorces"
