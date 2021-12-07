@@ -61,6 +61,15 @@ Une petite partie de ce corpus correspond également aux enregistrements des jug
 
 - les portions de texte pré-imprimées, notamment les en-têtes des tableaux et les préambules ont été transcrits. Les segments concernés ont été associés au type "printed".
 
+## Les autres dépôts LECTAUREP
+
+➡️ [Lectaurep-repertoires](https://github.com/HTR-United/lectaurep-repertoires)
+
+➡️ [Lectaurep-bronod](https://github.com/HTR-United/lectaurep-bronod)
+<!--
+➡️ [Lectaurep-mariages-et-divorces](https://github.com/HTR-United/lectaurep-mariages-et-divorces)-->
+
+
 
 ---
 
