@@ -1,7 +1,7 @@
 <img src="static/img/logo_lectaurep.png" width=150 align=right>
 
 # lectaurep-mariages-et-divorces
-[![DOI](https://sandbox.zenodo.org/badge/432958475.svg)](https://sandbox.zenodo.org/badge/latestdoi/432958475)
+![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)  [![DOI](https://sandbox.zenodo.org/badge/432958475.svg)](https://sandbox.zenodo.org/badge/latestdoi/432958475)
 
 
 <!-- badges HUMGenerator -->
