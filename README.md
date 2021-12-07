@@ -1,6 +1,8 @@
 <img src="static/img/logo_lectaurep.png" width=150 align=right>
 
 # lectaurep-mariages-et-divorces
+[![CC BY 4.0][cc-by-shield]][cc-by]  [![DOI](https://sandbox.zenodo.org/badge/432958475.svg)](https://sandbox.zenodo.org/badge/latestdoi/432958475)
+
 
 <!-- badges HUMGenerator -->
 ![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/0e95bc706b498b2b8428697e992a5755/raw/cm-sd_regions.json)
