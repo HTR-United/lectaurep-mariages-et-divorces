@@ -51,4 +51,4 @@ sources:
 citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-mariages-et-divorces/main/CITATION.cff'
 transcription-guidelines: >
     The transcription respects what is written (abbreviations are not developed, capitalization follows 19th century practices). Superscripted portions of text are signaled by `^` and many signatures are transcription with ¥.
-    The lines containing printed text are associated with the type `printed` and the signatures are associated with the type `signature`. Thus they can both be removed from the dataset if necessary.
+    The lines containing printed text are associated with the type `printed` and the signatures are associated with the type `signature`. Thus they can both be removed from the dataset if necessary.'
