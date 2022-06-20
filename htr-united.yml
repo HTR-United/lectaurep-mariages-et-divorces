@@ -43,12 +43,16 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 format: Page-XML
 volume:
-- metric: pages
-  count: 105
+- metric: characters
+  count: 1969585
+- metric: files
+  count: 104
 - metric: lines
   count: 20305
-- metric: characters
-  count: 325458
+- metric: pages
+  count: 105
+- metric: regions
+  count: 105
 sources:
 - reference: "Rostaing, A., Denis, N., & Chagu\xE9, A. (2021). Lectaurep-Mariages-et-Divorces:\
     \ ground truth for the Enregistrements des Contrats de Mariages et des S\xE9parations\
@@ -63,3 +67,47 @@ transcription-guidelines: "The transcription respects what is written (abbreviat
   \ and the signatures are associated with the type `signature`. Thus they can both\
   \ be removed from the dataset if necessary.'\n"
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - t
+  - /
+  - a
+  - c
+  - '0'
+  - n
+  - r
+  - '7'
+  - m
+  - h
+  - p
+  - s
+  - o
+  - g
+  - '1'
+  - E
+  - .
+  - i
+  - '-'
+  - '2'
+  - '9'
+  - '5'
+  - f
+  - '3'
+  - d
+  - <
+  - l
+  - '{'
+  - ':'
+  - P
+  - A
+  - G
+  - '}'
+  - U
+  - x
+  - '>'
+  - b
+  - '8'
+  - '6'
+  - '4'
